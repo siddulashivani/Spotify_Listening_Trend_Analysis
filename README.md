@@ -91,9 +91,9 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 | Page | Slicer | How to Use |
 |------|--------|------------|
-| Page 1 | Genre Dropdown | Select any of 114 genres to filter all KPI cards and charts |
+| Page 1 | Genre | Select any of 114 genres to filter all KPI cards and charts |
 | Page 2 | Popularity Category | Click Viral/Popular/Moderate/Low to filter track data |
-| Page 3 | Content Type | Click Vocal/Instrumental to filter artist data |
+| Page 3 | Avg Popularity by Content Type | Click Vocal/Instrumental to filter artist data |
 | Page 4 | Genre Explorer | Click any genre pill to filter genre analysis |
 | Page 5 | Energy Level | Click Low/Medium/High to filter audio feature data |
 
@@ -124,11 +124,6 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 ✅ 66 DAX measures created
 ✅ 5 interactive dashboard pages
 ✅ 5 slicers for dynamic filtering
-✅ Spotify dark theme applied
-✅ Real Kaggle dataset used
-✅ Python data cleaning applied
-✅ Portfolio ready
-
 ```
 
 ## Tools Used
@@ -136,5 +131,5 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 | Tool | Purpose |
 |------|---------|
 | **Microsoft Power BI Desktop** | Interactive dashboard development |
-| **Power Query** | Data transformation |
+| **Power Query** | Data transformation and cleaning |
 | **DAX** | Measure calculations | Project documentation and reporting | 

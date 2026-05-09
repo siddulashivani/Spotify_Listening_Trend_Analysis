@@ -28,7 +28,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 |------|-------|-------------|
 | 1 | 📊 Overview & KPIs | Genre (Dropdown) |
 | 2 | 🎵 Track Popularity Analysis | Popularity Category (Dropdown) |
-| 3 | 🎤 Artist Stats Analysis | Content Type (Tile) |
+| 3 | 🎤 Artist Stats Analysis | Avg Popularity by Content Type (Tile) |
 | 4 | 🎸 Genre Trends Analysis | Genre Explorer (Tile) |
 | 5 | 🎚️ Audio Features Analysis | Energy Level (Tile) |
 

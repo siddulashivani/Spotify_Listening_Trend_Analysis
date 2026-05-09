@@ -1,15 +1,15 @@
-# 🎵 Spotify Listening Trend Analysis
+# Spotify Listening Trend Analysis
 A 5-page interactive Power BI dashboard analysing Spotify streaming trends across 76,101 tracks, 114 genres, and 17,062 artists to uncover popularity patterns, genre dominance, and audio feature insights.
 
 Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Trend Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 > **This Spotify Listening Trend Analysis Dashboard was built using Microsoft Power BI to analyse 76,101 Spotify tracks across 114 genres and 17,062 unique artists.The dashboard helps uncover music streaming trends, track popularity patterns, artist performance, genre dominance, and audio feature behavior — all in one interactive analytical view.**
 
 ---
 
-## 🗃️ Dataset Details
+## Dataset Details
 
 | Property | Value |
 |----------|-------|
@@ -22,7 +22,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 --- 
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 | Page | Title | Slicer Used |
 |------|-------|-------------|
@@ -46,27 +46,27 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
-### 🎵 Track Popularity
+### Page 1 - Track Popularity
 - 🔥 Only **1.6%** of tracks (1,243) achieve viral status (75+ popularity)
 - 🏆 **Unholy** by Sam Smith tops the chart with a perfect score of **100**
 - 🎤 **Bad Bunny** dominates with 4 tracks in the top 10
 - 🔞 Explicit tracks score **41.4** avg vs **37.1** for clean — a **+4.3 point advantage**
 
-### 🎤 Artist Stats
+### Page 2 - Artist Stats
 - 👑 **Bizarrap** is the top artist by average popularity at **99.0**
 - 🎤 Vocal tracks (**80.6%** of catalog) average **39.17** popularity
 - 🎸 Instrumental tracks (**19.4%**) average only **30.59** popularity
 - 📊 Vocal vs Instrumental gap = **8.6 popularity points**
 
-### 🎸 Genre Trends
+### Page 3 - Genre Trends
 - 🥇 **Pop** leads all genres with **65.9** average popularity
 - 📉 **Iranian** genre struggles at only **6.5** — a **10x gap** vs Pop
 - 🌟 Top 5: Pop (65.9), Electro (63.0), House (62.1), Metal (59.6), EDM (59.3)
 - ❌ Bottom 5: Iranian (6.5), Romance (9.4), Detroit Techno (11.2), Chicago House (12.3), Grindcore (14.6)
 
-### 🎚️ Audio Features
+### Page 4 - Audio Features
 - 💃 Avg Danceability: **0.56** (Moderately danceable)
 - ⚡ Avg Energy: **0.64** (Fairly energetic)
 - 😊 Avg Valence: **0.47** (Slightly melancholic)
@@ -76,7 +76,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
   
 ---
 
-## 📋 Slicers Guide
+## Slicers Guide
 
 | Page | Slicer | How to Use |
 |------|--------|------------|
@@ -88,7 +88,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ---
 
-## 📊 Dashboard Visuals Summary
+## Dashboard Visuals Summary
 
 | Visual Type | Count | Used For |
 |-------------|-------|---------|
@@ -104,7 +104,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ---
 
-## 💡 Project Highlights
+## Project Highlights
 
 ```
 ✅ 76,101 tracks analyzed
@@ -120,7 +120,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ```
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|

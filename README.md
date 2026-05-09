@@ -1,5 +1,4 @@
 # 🎵 Spotify Listening Trend Analysis
-### Power BI Dashboard Portfolio Project
 
 ---
 

@@ -27,7 +27,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 | Page | Title | Slicer Used |
 |------|-------|-------------|
 | 1 | 📊 Overview & KPIs | Genre (Dropdown) |
-| 2 | 🎵 Track Popularity Analysis | Popularity Category (Tile) |
+| 2 | 🎵 Track Popularity Analysis | Popularity Category (Dropdown) |
 | 3 | 🎤 Artist Stats Analysis | Content Type (Tile) |
 | 4 | 🎸 Genre Trends Analysis | Genre Explorer (Tile) |
 | 5 | 🎚️ Audio Features Analysis | Energy Level (Tile) |
@@ -52,7 +52,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 - 🔥 Only **1.6%** of tracks (1,243) achieve viral status (75+ popularity)
 - 🏆 **Unholy** by Sam Smith tops the chart with a perfect score of **100**
 - 🎤 **Bad Bunny** dominates with 4 tracks in the top 10
-- 🔞 Explicit tracks score **41.4** avg vs **37.1** for clean — a **+4.3 point advantage**
+- 🔞 Explicit tracks score **41.4** avg vs **37.1** for clean — **4.3 point advantage**
 
 ### Page 2 - Artist Stats
 - 👑 **Bizarrap** is the top artist by average popularity at **99.0**

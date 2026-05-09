@@ -48,25 +48,36 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ## Key Findings
 
-### Page 1 - Track Popularity
+### Page 1 - Overview & KPIs
+- 📊 Total catalog contains **76,101 tracks** across **114 genres** 
+  and **17,062 unique artists**
+- 🔥 Only **1.6%** of all tracks (1,243) achieve viral status 
+  with 75+ popularity score
+- ⭐ Overall average popularity score is **37.5 out of 100**
+- 🏆 **Unholy** by Sam Smith is the top track with score of **100**
+- 🎵 **44.1%** of tracks fall in Moderate popularity category
+- 🎤 **Pop** leads all 114 genres in average popularity
+- 💿 **44,419 unique albums** tracked across the catalog
+
+### Page 2 - Track Popularity
 - 🔥 Only **1.6%** of tracks (1,243) achieve viral status (75+ popularity)
 - 🏆 **Unholy** by Sam Smith tops the chart with a perfect score of **100**
 - 🎤 **Bad Bunny** dominates with 4 tracks in the top 10
 - 🔞 Explicit tracks score **41.4** avg vs **37.1** for clean — **4.3 point advantage**
 
-### Page 2 - Artist Stats
+### Page 3 - Artist Stats
 - 👑 **Bizarrap** is the top artist by average popularity at **99.0**
 - 🎤 Vocal tracks (**80.6%** of catalog) average **39.17** popularity
 - 🎸 Instrumental tracks (**19.4%**) average only **30.59** popularity
 - 📊 Vocal vs Instrumental gap = **8.6 popularity points**
 
-### Page 3 - Genre Trends
+### Page 4 - Genre Trends
 - 🥇 **Pop** leads all genres with **65.9** average popularity
 - 📉 **Iranian** genre struggles at only **6.5** — a **10x gap** vs Pop
 - 🌟 Top 5: Pop (65.9), Electro (63.0), House (62.1), Metal (59.6), EDM (59.3)
 - ❌ Bottom 5: Iranian (6.5), Romance (9.4), Detroit Techno (11.2), Chicago House (12.3), Grindcore (14.6)
 
-### Page 4 - Audio Features
+### Page 5 - Audio Features
 - 💃 Avg Danceability: **0.56** (Moderately danceable)
 - ⚡ Avg Energy: **0.64** (Fairly energetic)
 - 😊 Avg Valence: **0.47** (Slightly melancholic)

@@ -124,8 +124,6 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 | Tool | Purpose |
 |------|---------|
-| **Microsoft Power BI Desktop** | Dashboard creation |
-| **Python (Pandas)** | Data cleaning |
-| **Kaggle** | Dataset source |
+| **Microsoft Power BI Desktop** | Interactive dashboard development |
 | **Power Query** | Data transformation |
-| **DAX** | Measure calculations |
+| **DAX** | Measure calculations | Project documentation and reporting | 

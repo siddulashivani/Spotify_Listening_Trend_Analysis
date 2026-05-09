@@ -1,6 +1,5 @@
 # 🎵 Spotify Listening Trend Analysis
 
----
 
 ## 📌 Project Overview
 

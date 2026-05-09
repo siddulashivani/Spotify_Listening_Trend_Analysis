@@ -34,7 +34,7 @@ Spotify Analytics • Interactive Dashboards • Audio Feature Insights • Tren
 
 ---
 
-## 📐 DAX Measures (66 Total)
+## DAX Measures (66 Total)
 
 | Page | Measures | Key Measures |
 |------|----------|--------------|
